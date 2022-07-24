@@ -1,3 +1,4 @@
+#importando as bibliotecas
 import os
 import pandas as pd
 
